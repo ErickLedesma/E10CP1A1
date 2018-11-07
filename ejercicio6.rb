@@ -41,3 +41,4 @@ end
 end 
 
 puts "Cantidad de alumnos #{Student.student_quantity}"
+
